@@ -3,3 +3,5 @@ new branch1 txt
 this update from branch1
 
 add a new branch1 line
+
+this is from branch1
